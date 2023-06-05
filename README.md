@@ -9,7 +9,8 @@ urlFragment: storage-blob-dotnet-getting-started
 ---
 
 # Azure Blob Storage Samples for .NET
-This is a clone of https://github.com/Azure-Samples/storage-blob-dotnet-getting-started
+This is a clone of https://github.com/Azure-Samples/storage-blob-dotnet-getting-started.
+
 Demonstrates how to use the Blob Storage service.
 Blob storage stores unstructured data such as text, binary data, documents or media files.
 Blobs can be accessed from anywhere in the world via HTTP or HTTPS.
